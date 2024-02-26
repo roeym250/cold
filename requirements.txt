@@ -1,0 +1,3 @@
+pyyaml
+numpy
+usrp-uhd-client

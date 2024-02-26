@@ -1,0 +1,6 @@
+venv
+*.pyc
+*.npy
+*.iq
+*.log
+*.swp
