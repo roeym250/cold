@@ -1,0 +1,6 @@
+duration: 3
+freq: 5000000000
+rate: 1000000
+output_file: /media/roey/T7/out.iq
+gain: 10
+channels: 0
